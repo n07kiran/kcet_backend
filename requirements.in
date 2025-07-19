@@ -1,8 +1,5 @@
 fastapi[standard]
-langchain
 dotenv
-langchain[google-genai]
-langchain-community
 psycopg2-binary
 pymongo
 pydantic
@@ -21,4 +18,3 @@ langchain-groq
 langchain-google-genai
 psycopg2
 IPython
-pprint
